@@ -1,7 +1,5 @@
-# Vue 3 + Vite
+# PORTFOLIO
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,html,js,vite,vue)](https://skillicons.dev)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Visualizacion de Aplicacion Funcionando
+<a href="https://www.linkedin.com/in/mtristanpdlc180195/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-LINK-blue"></a>

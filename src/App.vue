@@ -9,7 +9,7 @@ import Footer from './components/Footer.vue';
     <NavBar />
   </header>
   <main>
-    <section>
+    <section class="p-4">
       <Carousel />
     </section>
   </main>
